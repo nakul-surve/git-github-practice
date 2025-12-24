@@ -26,3 +26,16 @@ More updates coming soon....
 - Importance of commit messages
 - Difference between local and remote repository
 - How Git helps in collaboration
+
+
+
+## Branching Practice
+
+- Created a new branch for practice
+- Made changes in the branch
+- Merged branch back to main
+
+Commands (conceptually):
+- git branch
+- git checkout -b branch-name
+- git merge
