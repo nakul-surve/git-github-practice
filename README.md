@@ -39,3 +39,7 @@ Commands (conceptually):
 - git branch
 - git checkout -b branch-name
 - git merge
+
+Why this matters:
+Branching helps developers work safely without breaking the main code.
+Branching keeps main stable and avoids conflicts.
