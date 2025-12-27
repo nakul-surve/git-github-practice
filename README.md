@@ -43,3 +43,19 @@ Commands (conceptually):
 Why this matters:
 Branching helps developers work safely without breaking the main code.
 Branching keeps main stable and avoids conflicts.
+
+Merge Conflicts Concepts-
+
+What is a merge conflict?
+When Git cannot automatically merge changes from two branches.
+
+Why it happens:
+- Same file edited in different branches
+- Changes on same line
+
+How it is resolved:
+- Manually choose correct changes
+- Commit after resolving
+
+Why this matters:
+Very common in real team projects.
