@@ -10,9 +10,6 @@ Commands practiced:
 - git push
 - git pull
 
-More updates coming soon....
-
-
 
 ## Git Workflow Practiced
 
