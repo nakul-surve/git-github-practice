@@ -52,7 +52,7 @@ Why it happens:
 
 How it is resolved:
 - Manually choose correct changes
-- Commit after resolving
+
 
 Why this matters:
 Very common in real team projects.
